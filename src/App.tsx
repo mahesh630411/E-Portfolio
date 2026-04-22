@@ -210,7 +210,7 @@ export default function App() {
           </motion.div>
           <div className="relative max-w-sm mx-auto md:ml-auto">
             <img 
-              src="M2.jpeg" 
+              src="https://res.cloudinary.com/dkogmdpwu/image/upload/v1776855948/M2_ntzfwb.jpg" 
               alt="Portrait" 
               className="w-full aspect-square object-cover border-brand-border p-2"
               referrerPolicy="no-referrer"
